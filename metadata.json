@@ -1,0 +1,6 @@
+{
+  "name": "IbizaGym",
+  "description": "Modern, sleek, and high-converting website for IbizaGym featuring membership tiers, exclusive poster promos, class calendar, trainer spotlight, and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
